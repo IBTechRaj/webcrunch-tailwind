@@ -1,0 +1,7 @@
+click on Code and go for git clone ...... from this link
+https://github.com/justalever/kickoff_tailwind
+
+rails new appName -d ... -m template.rb (downloaded file .. included in this repo)
+
+https://www.youtube.com/watch?v=lG51oDx4Dr4 (02 Create Meetings)
+
